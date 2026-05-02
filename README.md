@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=26&duration=3500&color=9D4EDD&center=true&vCenter=true&width=600&lines=Maria+Alice;Data+Analyst+%7C+Machine+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=26&duration=3500&color=9D4EDD&center=true&vCenter=true&width=700&lines=Hello%2C+I%27m+Maria+Alice!;I%27m+a+Data+Analyst+and+Data+Scientist+in+progress"/>
 
 </div>
 
@@ -28,7 +28,6 @@ Data Analyst at Editora Globo
 &nbsp;
 ![Experience](https://img.shields.io/badge/4%2B_years_experience-6f42c1?style=flat-square)
 &nbsp;
-![Company](https://img.shields.io/badge/Editora_Globo-6f42c1?style=flat-square)
 
 </div>
 
