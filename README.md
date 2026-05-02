@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,100:6a0dad&height=120"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:6a0dad&height=120"/>
+
+
 
 <div align="center">
 
