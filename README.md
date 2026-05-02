@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:6a0dad&height=120"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Maria+Alice;Data+Analyst+%7C+Data+Science"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=28&duration=4000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+Maria+Alice"/>
 
 </div>
 
