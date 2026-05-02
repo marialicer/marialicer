@@ -51,4 +51,10 @@ Working with data and studying Data Science
 
 </div>
 
+<div align="center">
+
+<img src="https://github.com/marialicer/marialicer/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
 ---
