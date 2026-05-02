@@ -1,72 +1,58 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=12,24,20&section=header"/>
 
 <br>
 
 <div align="center">
-  <b>Data Analyst | Machine Learning</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Maria Alice</b>
-  </samp>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=Data+Analyst+%7C+Machine+Learning;4%2B+years+working+with+data;Analytics+%7C+NLP+%7C+Automation;Based+in+Brazil"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/data_analytics-black" />
-</div>
-
-<br>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marialicer&show_icons=true&theme=radical&count_private=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialicer&layout=compact&theme=radical&count_private=true">
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
-</div>
-
-<br>
-
-<details align="center">  
-  <summary><b>More Info</b></summary>
-
-<br>
-
-Data professional with 4+ years of experience in analytics, machine learning and audience data.
-
-Experience with Python, SQL and Scikit-learn in classification, clustering and NLP projects. Currently working with data-driven decision making in large-scale media environments.
+<b>Data Analyst · Machine Learning</b>
 
 <br><br>
 
-**Projects**
+  <samp>
+    Hi, I'm <b>Maria Alice</b><br>
+    Working with data, analytics and machine learning
+  </samp>
 
-* https://github.com/marialicer/hotel-reviews
-* https://github.com/marialicer/airbnb-nyc-price
-* https://github.com/marialicer/gaming-mental-health
-
-<br>
-
-**Contact**
-
-LinkedIn: [SEU_LINKEDIN](https://www.linkedin.com/in/maria-alice-rocha-9444a7153/)
-
-</details>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=marialicer&style=flat-square&color=8f2c5b" />
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3000&color=9D4EDD&center=true&vCenter=true&width=600&lines=4%2B+years+in+data;Python+%7C+SQL+%7C+Machine+Learning;Analytics+%7C+NLP+%7C+Automation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/data-science-1a1a1a?style=for-the-badge"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=marialicer&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialicer&layout=compact&theme=midnight-purple&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+
+Python · SQL · Machine Learning · NLP
+Power BI · Looker · BigQuery
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=12,24,20&section=footer"/>
