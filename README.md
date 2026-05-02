@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=26&duration=3500&color=9D4EDD&center=true&vCenter=true&width=700&lines=Hello%2C+I%27m+Maria+Alice!;I%27m+a+Data+Analyst+and+Data+Scientist+in+progress"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=5000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Maria+Alice"/>
+
 
 </div>
 
