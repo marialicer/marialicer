@@ -40,6 +40,9 @@ Data Analyst at Editora Globo
 <br><br>
 
 <img src="https://img.shields.io/badge/Scikit--learn-6f42c1?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-6f42c1?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-6f42c1?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-6f42c1?style=flat-square" />
 <img src="https://img.shields.io/badge/Power_BI-6f42c1?style=flat-square&logo=powerbi&logoColor=white" />
 <img src="https://img.shields.io/badge/Looker-6f42c1?style=flat-square&logo=looker&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-6f42c1?style=flat-square&logo=googlebigquery&logoColor=white" />
