@@ -7,8 +7,9 @@
 
 <div align="center">
 
-Data Analyst at Editora Globo  
-4+ years working with audience analytics 
+Data Analyst at Editora Globo · 4+ years in audience analytics  
+Postgraduate in Analytics & BI (PUC Minas) · Journalist (UERJ)  
+Working with data and studying Data Science
 
 </div>
 
