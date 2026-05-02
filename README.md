@@ -15,7 +15,7 @@ Data Analyst at Editora Globo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marialicer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marialicer](https://www.linkedin.com/in/maria-alice-rocha-9444a7153/)
 [![GitHub](https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marialicer)
 
 </div>
