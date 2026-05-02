@@ -23,11 +23,11 @@
 
 ```python
 maria = {
-    "nome":       "Maria Licer",
-    "localização": "Rio de Janeiro, Brasil 🌊",
-    "atual":      "Analista de Dados @ Editora Globo",
+    "nome":       "Maria ALice",
+    "localização": "Rio de Janeiro, Brasil",
+    "atual":      "Analista de Dados",
     "formação":   ["Analytics & BI — PUC Minas", "Jornalismo — UERJ"],
-    "experiência": "4 anos em dados de audiência & ML",
+    "experiência": "4 anos em dados de audiência",
     "superpoder": "transformar relatórios de 7 dias em pipelines automatizados ⚡",
     "idiomas":    {"Português": "Nativo", "Inglês": "Avançado", "Espanhol": "Básico"},
 }
