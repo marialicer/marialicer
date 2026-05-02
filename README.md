@@ -47,7 +47,6 @@ Working with data and studying Data Science
 <img src="https://img.shields.io/badge/NumPy-6f42c1?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-6f42c1?style=flat-square&logo=powerbi&logoColor=white" />
 <img src="https://img.shields.io/badge/Looker-6f42c1?style=flat-square&logo=looker&logoColor=white" />
-<img src="https://img.shields.io/badge/BigQuery-6f42c1?style=flat-square&logo=googlebigquery&logoColor=white" />
 <img src="https://img.shields.io/badge/GA4-6f42c1?style=flat-square&logo=googleanalytics&logoColor=white" />
 
 </div>
