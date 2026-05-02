@@ -1,11 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:6a0dad&height=120"/>
 
-
-
 <div align="center">
 
-# Maria Alice
-### Data Analyst · Data Science
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Maria+Alice;Data+Analyst+%7C+Data+Science"/>
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marialicer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marialicer)
