@@ -4,9 +4,8 @@
 
 <div align="center">
 
-**Data Analyst @ Editora Globo** · 4+ anos em analytics de audiência  
+**Data Analyst at Editora Globo** · 4+ anos em analytics de audiência  
 Pós-graduanda em Analytics & BI (PUC Minas) · Jornalista (UERJ)  
-Cruzando dados e narrativa há mais tempo do que deveria ser legal
 
 </div>
 
@@ -38,7 +37,7 @@ Cruzando dados e narrativa há mais tempo do que deveria ser legal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,git,github" />
+<img src="https://skillicons.dev/icons?i=python,sql,git,github" />
 
 <br><br>
 
@@ -60,8 +59,5 @@ Cruzando dados e narrativa há mais tempo do que deveria ser legal
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marialicer)
 
-<br>
-
-*data × storytelling · always learning*
 
 </div>
