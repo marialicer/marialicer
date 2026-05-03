@@ -37,7 +37,7 @@ Pós-graduanda em Analytics & BI (PUC Minas) · Jornalista (UERJ)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,git,github" />
+<img src="https://skillicons.dev/icons?i=python,postgresql,git,github" />
 
 <br><br>
 
