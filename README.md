@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Data Analyst at Editora Globo** · 4+ anos em analytics de audiência
+**Data Analyst at Editora Globo** · 4+ anos em analytics de audiência<br>
 Pós-graduanda em Analytics & BI (PUC Minas) · Jornalista (UERJ)
 
 </div>
