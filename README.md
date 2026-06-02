@@ -19,7 +19,7 @@ Me chamo **Maria Alice**, sou graduada em **Jornalismo pela UERJ** e atuo como *
 
 Tenho background em comunicação e fui migrando para o mundo dos dados ao longo da carreira. Atualmente cursando **Pós-graduação em Analytics e Business Intelligence pela PUC-Minas**.
 
-Meu foco é evoluir para as áreas de **Data Science e Data Engineering**, construindo pipelines robustos e modelos preditivos que gerem impacto real em qualquer setor.
+Meu foco é evoluir para as áreas de **Data Science e Data Engineering**, construindo pipelines e modelos preditivos que gerem impacto em qualquer setor.
 
 ---
 
