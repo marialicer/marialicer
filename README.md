@@ -1,63 +1,79 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=5000&color=7A9E6E&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Maria+Alice"/>
-</div>
 
-<div align="center">
+# 💻 Oi, eu sou a Alice! 👋
 
-**Data Analyst at Editora Globo** · 4+ anos em analytics de audiência<br>
-Pós-graduanda em Analytics & BI (PUC Minas) · Jornalista (UERJ)
+### Data Analyst | BI | Data Science | Jornalismo de Dados
 
-</div>
-
-<br>
-
-<div align="center">
-
-![Open to opportunities](https://img.shields.io/badge/✦_Open_to_opportunities-4A6741?style=flat-square)
-&nbsp;
-![Experience](https://img.shields.io/badge/4%2B_years_in_data-8B5E3C?style=flat-square)
-&nbsp;
-![Location](https://img.shields.io/badge/📍_Rio_de_Janeiro-8B5E3C?style=flat-square)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicesouzarocha18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marialicerocha/])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USER_AQUI)
 
 </div>
 
 ---
 
-**Currently**
+## 🙋‍♀️ Sobre Mim
 
-- 🟢 **Editora Globo** — analytics de audiência digital, dashboards e insights para redações
-- 🟤 **Data Science** — projetos pessoais em ML e análise exploratória · Pós em Analytics & BI (PUC Minas)
+<img align="right" width="200" src="https://media.giphy.com/media/COLE_SEU_GIF_AQUI/giphy.gif" />
+
+Me chamo **Alice**, sou graduada em **Jornalismo** e atuo como **Data Analyst na Editora Globo**, onde analiso audiência e métricas digitais dos portais **O Globo** e **Extra**, desenvolvo estratégias de SEO e automatizo relatórios e processos com Python e n8n.
+
+Minha formação combina comunicação e dados — uma transição estratégica que me permite traduzir análises complexas em narrativas claras para tomada de decisão. Atualmente cursando **Pós-graduação em Analytics e Business Intelligence pela PUC-Minas**.
+
+Meu foco é evoluir para as áreas de **Data Science e Data Engineering**, construindo pipelines robustos e modelos preditivos que gerem impacto real em qualquer setor.
 
 ---
 
-**Tools & Tech**
+## 🎯 Foco Atual
+
+- **Apache Airflow:** Orquestração de pipelines de dados com DAGs dinâmicas, sensores, XComs e branching.
+- **BigQuery & SQL:** Extração, transformação e análise de dados em escala para produtos editoriais.
+- **Python:** Automação de relatórios, NLP/Análise de sentimento e modelos de Machine Learning.
+- **AWS:** Fundamentos de cloud computing — rumo às certificações.
+- **n8n, Looker, Power BI e Tableau:** Automação de fluxos e visualização de dados para audiências internas e externas.
+
+---
+
+## 🛠️ Stack de Ferramentas
+
+> Tecnologias em aprendizado e uso
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,git,github" />
+**Linguagens & Análise**
 
-<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-8B5E3C?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-8B5E3C?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-8B5E3C?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-4A6741?style=flat-square&logo=powerbi&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4A6741?style=flat-square&logo=looker&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4-4A6741?style=flat-square&logo=googleanalytics&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-4A6741?style=flat-square&logo=n8n&logoColor=white)
+**Engenharia de Dados**
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Visualização & BI**
+
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+**Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A6741?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-alice-rocha-9444a7153/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-8B5E3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marialicer)
+![Alice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-<br>
-
-*data × storytelling · always learning*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
