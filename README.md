@@ -13,7 +13,7 @@
 
 ## 👩🏻‍💻 Sobre Mim
 
-<img align="right" width="200" src="https://media.giphy.com/media/COLE_SEU_GIF_AQUI/giphy.gif" />
+<img align="right" width="200" src="./imagem.jpg" />
 
 Me chamo **Maria Alice**, sou graduada em **Jornalismo** e atuo como **Data Analyst na Editora Globo**, onde analiso audiência e métricas digitais dos portais **O Globo** e **Extra**, desenvolvo estratégias de SEO e automatizo relatórios e processos com Python e n8n.
 
