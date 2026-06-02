@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💻 Oi, eu sou a Alice! 👋
+# 💻 Oi, eu sou a Maria Alice! 👋
 
-### Data Analyst | BI | Data Science | Jornalismo de Dados
+### Data Analyst | BI | Data Science | Estratégia de conteúdo
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicesouzarocha18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marialicerocha/])
@@ -16,7 +16,7 @@
 
 <img align="right" width="200" src="https://media.giphy.com/media/COLE_SEU_GIF_AQUI/giphy.gif" />
 
-Me chamo **Alice**, sou graduada em **Jornalismo** e atuo como **Data Analyst na Editora Globo**, onde analiso audiência e métricas digitais dos portais **O Globo** e **Extra**, desenvolvo estratégias de SEO e automatizo relatórios e processos com Python e n8n.
+Me chamo **Maria Alice**, sou graduada em **Jornalismo** e atuo como **Data Analyst na Editora Globo**, onde analiso audiência e métricas digitais dos portais **O Globo** e **Extra**, desenvolvo estratégias de SEO e automatizo relatórios e processos com Python e n8n.
 
 Minha formação combina comunicação e dados — uma transição estratégica que me permite traduzir análises complexas em narrativas claras para tomada de decisão. Atualmente cursando **Pós-graduação em Analytics e Business Intelligence pela PUC-Minas**.
 
@@ -63,17 +63,5 @@ Meu foco é evoluir para as áreas de **Data Science e Data Engineering**, const
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Alice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
