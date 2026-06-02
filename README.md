@@ -17,7 +17,7 @@
 
 Me chamo **Maria Alice**, sou graduada em **Jornalismo pela UERJ** e atuo como **Data Analyst na Editora Globo**, onde analiso audiência e métricas digitais dos portais **O Globo** e **Extra**, desenvolvo estratégias de SEO e automatizo relatórios e processos com Python e n8n.
 
-Minha formação combina comunicação e dados — uma transição estratégica que me permite traduzir análises complexas em narrativas claras para tomada de decisão. Atualmente cursando **Pós-graduação em Analytics e Business Intelligence pela PUC-Minas**.
+Tenho background em Jornalismo e fui migrando para o mundo dos dados ao longo da carreira. Atualmente cursando **Pós-graduação em Analytics e Business Intelligence pela PUC-Minas**.
 
 Meu foco é evoluir para as áreas de **Data Science e Data Engineering**, construindo pipelines robustos e modelos preditivos que gerem impacto real em qualquer setor.
 
