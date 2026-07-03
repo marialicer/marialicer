@@ -28,7 +28,7 @@ Meu foco é evoluir para as áreas de **Data Science e Data Engineering**, const
 - **Apache Airflow:** Orquestração de pipelines de dados com DAGs dinâmicas, sensores, XComs e branching.
 - **BigQuery & SQL:** Extração, transformação e análise de dados em escala para produtos editoriais.
 - **Python:** Automação de relatórios, NLP/Análise de sentimento e modelos de Machine Learning.
-- **AWS:** Fundamentos de cloud computing — rumo às certificações.
+- **AWS:** Fundamentos de cloud computing, em busca das certificações.
 - **n8n, Looker, Power BI e Tableau:** Automação de fluxos e visualização de dados para audiências internas e externas.
 
 ---
