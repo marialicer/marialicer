@@ -15,7 +15,7 @@
 
 <img align="right" width="200" src="./imagem.jpg" />
 
-Me chamo **Maria Alice**, sou graduada em **Jornalismo pela UERJ** e atuo como **Data Strategy at Editora Globo**, onde analiso audiência e métricas digitais dos portais **O Globo** e **Extra**, desenvolvo estratégias de SEO e automatizo relatórios e processos com Python e n8n.
+Me chamo **Maria Alice**, sou graduada em **Jornalismo pela UERJ** e atuo como **Data Strategist at Editora Globo**, onde analiso audiência e métricas digitais dos portais **O Globo** e **Extra**, desenvolvo estratégias de SEO e automatizo relatórios e processos com Python e n8n.
 
 Tenho background em comunicação e fui migrando para o mundo dos dados ao longo da carreira. Sou **pós-graduada em Analytics e Business Intelligence pela PUC-Minas** e certificada pela **AWS como AI Practitioner**.
 
