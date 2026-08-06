@@ -15,9 +15,9 @@
 
 <img align="right" width="200" src="./imagem.jpg" />
 
-Me chamo **Maria Alice**, sou graduada em **Jornalismo pela UERJ** e atuo como **Data Analyst na Editora Globo**, onde analiso audiência e métricas digitais dos portais **O Globo** e **Extra**, desenvolvo estratégias de SEO e automatizo relatórios e processos com Python e n8n.
+Me chamo **Maria Alice**, sou graduada em **Jornalismo pela UERJ** e atuo como **Data Strategy at Editora Globo**, onde analiso audiência e métricas digitais dos portais **O Globo** e **Extra**, desenvolvo estratégias de SEO e automatizo relatórios e processos com Python e n8n.
 
-Tenho background em comunicação e fui migrando para o mundo dos dados ao longo da carreira. Sou **pós-graduada em Analytics e Business Intelligence pela PUC-Minas**.
+Tenho background em comunicação e fui migrando para o mundo dos dados ao longo da carreira. Sou **pós-graduada em Analytics e Business Intelligence pela PUC-Minas** e certificada pela **AWS como AI Practitioner**.
 
 Meu foco é evoluir para as áreas de **Data Science e Data Engineering**, construindo pipelines e modelos preditivos que gerem impacto em qualquer setor.
 
@@ -28,7 +28,7 @@ Meu foco é evoluir para as áreas de **Data Science e Data Engineering**, const
 - **Apache Airflow:** Orquestração de pipelines de dados com DAGs dinâmicas, sensores, XComs e branching.
 - **BigQuery & SQL:** Extração, transformação e análise de dados em escala para produtos editoriais.
 - **Python:** Automação de relatórios, NLP/Análise de sentimento e modelos de Machine Learning.
-- **AWS:** Fundamentos de cloud computing, em busca das certificações.
+- **AWS & Azure:** Fundamentos de cloud computing, em busca das certificações.
 - **n8n, Looker, Power BI e Tableau:** Automação de fluxos e visualização de dados para audiências internas e externas.
 
 ---
@@ -49,6 +49,7 @@ Meu foco é evoluir para as áreas de **Data Science e Data Engineering**, const
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Visualização & BI**
 
@@ -61,6 +62,5 @@ Meu foco é evoluir para as áreas de **Data Science e Data Engineering**, const
 **Machine Learning**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
